@@ -1,0 +1,16 @@
+Bagian I
+14. Jelaskan mengapa pesan kesalahan tersebut muncul! (Jangan lanjut ke tahap selanjutnya
+jika tahap ke-14 ini masih error)
+Jawab: Karena mencoba mengakses properti atau metode dengan nama "myType," tetapi entitas tersebut tidak ditemukan dalam definisi "Product_714220059." 
+19. Perhatikan hasil yang muncul dilayar, kenapa bisa seperti itu?
+Jawab:myProduct Tidak Didefinisikan dengan Benar: Pastikan bahwa objek myProduct telah dibuat dan diinisialisasi dengan benar.Mencoba mengakses myType dari objek yang belum diinisialisasi atau objek yang tidak memiliki properti myType, maka Anda juga akan melihat kesalahan.
+24.Alasan mengapa yang muncul di layar adalah "DVD" setelah pernyataan myProduct.Mytype = "DVD"; adalah karena Anda telah mengubah nilai properti Mytype pada objek myProduct menjadi "DVD." 
+
+Bagian II
+
+8.Jelaskan mengapa title dari buku tersebut tidak muncul! Apakah istilah dalam konsep
+OOP yang mendefinisikan fenomena seperti ini?
+Jawab:Jadi, "public string MyTitle" adalah penggunaan modifikasi akses public pada properti dalam OOP, yang mengindikasikan bahwa properti MyTitle dapat diakses secara bebas dari luar kelas yang mengandungnya, sesuai dengan konsep modifikasi akses dalam OOP.
+12.Perhatikan hasil yang muncul dilayar, jelaskan mengapa saat ini judul buku tampil pada
+output!
+Jawab:dalam kelas Book menggunakan base(type, title),menerapkan konsep Inheritance, yang memungkinkan kelas Book untuk mewarisi atribut dan metode dari kelas dasarnya. Ini memungkinkan kelas Book untuk menggunakan nilai type dan title yang diberikan oleh kelas dasar, menciptakan hierarki kelas yang memungkinkan untuk penggunaan atribut yang sama dalam konteks yang lebih spesifik.

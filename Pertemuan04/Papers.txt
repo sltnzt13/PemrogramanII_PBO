@@ -1,0 +1,41 @@
+﻿Pembelajaran mendalam adalah teknik
+teknik pembelajaran mesin yang paling kuat saat ini
+generasi saat ini. Makalah ini menyajikan hasil dari
+pengenalan tulisan tangan menggunakan deep learning.
+Tulisan tangan adalah unik untuk setiap individu. Jadi
+tulisan tangan berbeda antara satu orang dengan
+orang lain. Pengenalan tulisan tangan dapat
+dilakukan dengan dua cara. Salah satunya adalah Pengenalan Tulisan Tangan Online
+dan satu lagi adalah Pengenalan Tulisan Tangan Offline.
+Pengenalan Tulisan Tangan Offline. Tulisan Tangan Online
+sistem pengenalan, yang mengambil input saat dijalankan
+waktu dan Pengenalan Tulisan Tangan Offline yang
+bekerja pada gambar yang dipindai. Tulisan tangan offline adalah
+yang paling sulit untuk menemukan tulisan tangan. Data MNIST
+set digunakan untuk pengenalan digit tulisan tangan ini
+proses ini dan memiliki 70000 digit tulisan tangan.
+Banyak Algoritma Pembelajaran Mesin yang
+dikembangkan yang dapat digunakan untuk digit ini
+klasifikasi. Makalah ini melakukan analisis
+akurasi dan ukuran kinerja dari
+algoritma Jaringan Syaraf Tiruan Convolutional
+(CNN). Pendekatan yang diusulkan dikenali dengan
+akurasi keseluruhan adalah 93%.
+Handwritten Recognition (HR) is a
+challenging task in the field of pattern recognition.
+Because every person in this world has their own
+way of writing. In real-time applications like the
+conversion of handwritten information into digital
+format, verification of signatures, number plate
+recognition, this kind recognition is required. This
+recognition was implemented using many Machine
+Learning techniques like Random Forest, Naive
+Bayes and Support Vector Machine, Convolution
+Neural Network(CNN), etc. The accuracy and
+correctness are mostly crucial in handwritten digit
+recognition applications. Even 1% error may lead to
+inappropriate results in real-time applications.
+The MNIST (Modified National Institute of
+Standards and Technology database) data set is used
+for this recognition process. The MNIST data set has
+70,000 handwritten digits. Here 60,000 images are 

@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\bin\Debug\P5_2_714220059.exe.config
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\bin\Debug\P5_2_714220059.exe
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\bin\Debug\P5_2_714220059.pdb
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.ChildForm.resources
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.ParentForm.resources
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.exe
+C:\Users\ASUS\OneDrive\Documents\Pemrograman II_PBO\Pertemuan04\Praktikum\P5_2_714220059\obj\Debug\P5_2_714220059.pdb
