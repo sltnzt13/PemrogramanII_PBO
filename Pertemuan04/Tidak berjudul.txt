@@ -1,0 +1,15 @@
+
+buat tulisan dalam bentuk artikel mengenai implementasi konsep penjadwalan prosesor dalam sistem operasi modern
+buat video multimedia seperti contoh materi diatas
+silahkan kerjakan tugas rumah yang ada di modul 7 jan 2024
+Kerjakan soal berikut secara ringkas & tepat sasaran:
+Apa kegunaan fungsi table() ?
+Apa kegunaan fungsi Ttable() ?
+Apa kegunaan fungsi data_frame ?
+Apa kegunaan fungsi summarise() ? 7 jan 2024
+1. Buatlah contoh coding dalam bahasa R untuk proses Pengulangan (LOOP) dengan for!
+2. Buatlah contoh coding dalam bahasa R untuk proses Kondisi (Condition) dengan if
+3. Jelaskan cara membuat Fungsi Sederhana dalam Bahasa R ! Berikan contoh codingnya!
+4. Jelaskan cara memanggil Fungsi sederhana dalam Bahasa R ! Berikan contoh codingnya!
+5. Jelaskan Kegunaan fungsi return() ! 14 Jan 2024 
+
